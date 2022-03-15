@@ -1,3 +1,5 @@
+一个非常好的队列queue实现，用于sdf tcp部分
+------------------------------------------------------------------------
 Queue
 - thread-safe
 - ability to define max number of elements
